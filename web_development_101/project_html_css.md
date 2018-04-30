@@ -1453,6 +1453,8 @@ Submit a link below to the github repo with your files in it by using a pull req
 * [AlexandreLeFou's Solution (Easy)](https://github.com/AlexandreLeFou/google-homepage) - [View in Browser](https://alexandrelefou.github.io/google-homepage/)
 * [ClassicLeem's (Easy)](https://github.com/LiamWright/GoogleHomePage) - [View in Browser](https://liamwright.github.io/GoogleHomePage/)
 * [AndreiPantea's (Easy)](https://andreipc.github.io/Google_Page/) - [View in Browser](https://andreipc.github.io/Google_Page/)
+* [Tom Perry's Solution(Easy)](https://github.com/PerryBrizzle/google-homepage) - [View in Browser](https://perrybrizzle.github.io/google-homepage/)
+* [Tom Perry's Solution(Difficult)](https://github.com/PerryBrizzle/google-search-results) - [View in Browser](https://perrybrizzle.github.io/google-search-results/)
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
